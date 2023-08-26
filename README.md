@@ -8,20 +8,20 @@ De modo geral o código ultiliza os dados da tabela e monta um modelo de regress
 
 **Resistor de 47Ω:**
 
-![272ca1ed-0cde-46e5-88c5-d04149c230f2](https://github.com/JoaoMatheusND/Fisica_Experimental/assets/70983676/c37094d1-7215-4723-94e9-8e8c0ef3c509)
+![62a3c757-071b-4474-b6e7-ec280bf6007a](https://github.com/JoaoMatheusND/Fisica_Experimental/assets/70983676/cf05a542-cb5b-4852-ac63-2c6168c03ac8)
 
 **Resistor de 100Ω:**
 
-![c9b9f72c-7ed6-4e0f-a8fc-242880162ed7](https://github.com/JoaoMatheusND/Fisica_Experimental/assets/70983676/dd689feb-0d4a-4196-b296-b11368158fd2)
+![b0f84509-d650-44aa-92cb-8edb1537ffec](https://github.com/JoaoMatheusND/Fisica_Experimental/assets/70983676/e500418e-54c6-4f76-abc5-7c0ce7657121)
 
 **Resistor de 200Ω:**
 
-![862f2748-8359-4725-b977-6906dfbed5ba](https://github.com/JoaoMatheusND/Fisica_Experimental/assets/70983676/f7f6e737-267c-4c3a-bd17-28a80238bf2a)
+![f5e4dcf0-dc52-46c0-92a6-798f9ca2983a](https://github.com/JoaoMatheusND/Fisica_Experimental/assets/70983676/40f41f74-9c52-4899-8540-b1c76535a7b3)
 
 **Resistor de 2kΩ:**
 
-![19f139b3-a995-4246-9b76-12efde8774d4](https://github.com/JoaoMatheusND/Fisica_Experimental/assets/70983676/fe6d9a63-b5e4-4f26-b722-b510b3c4d227)
+![2f076510-834e-4177-9569-4313cc29a207](https://github.com/JoaoMatheusND/Fisica_Experimental/assets/70983676/96b0d2d1-9de8-4370-ae72-87029ebf6e61)
 
 **Resistor de 560kΩ:**
 
-![50c969e4-8278-405f-bd8a-572fe70f5aab](https://github.com/JoaoMatheusND/Fisica_Experimental/assets/70983676/323fe6c9-5f8f-4442-912f-d40393eef2f8)
+![3cbdde66-04bd-46ff-8d3e-d17dfd84fd2d](https://github.com/JoaoMatheusND/Fisica_Experimental/assets/70983676/b4034b09-7b4c-4f27-9b56-9cb810261e3f)
