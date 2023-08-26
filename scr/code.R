@@ -1,7 +1,8 @@
 # Desenvolvido por João Matheus Nascimento Dias em 2023
 
 ######################### Obenção de dados e pre-processamento #########################
-resistencias <- read.csv("C:\\jmnd\\Resistencias.csv", header=TRUE, dec = ",")
+diretorio <- "C:\\" #Coloque dentro das '"' o diretório para o arquivo Resistencias.cvs, com '\\' para o caminho
+resistencias <- read.csv(diretorio, header=TRUE, dec = ",")
 resistencias[is.na(resistencias)] <- 0
 
 ######################### Função para plotar os gráficos ###############################
