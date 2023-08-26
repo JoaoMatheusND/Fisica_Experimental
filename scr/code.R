@@ -1,3 +1,5 @@
+# Desenvolvido por João Matheus Nascimento Dias em 2023
+
 ######################### Obenção de dados e pre-processamento #########################
 resistencias <- read.csv("C:\\jmnd\\Resistencias.csv", header=TRUE, dec = ",")
 resistencias[is.na(resistencias)] <- 0
