@@ -18,7 +18,7 @@ plot_grafic <- function(x, y, z){
   coef <- coef(fit)
   
   # Cálculo do ângulo da inclinação
-  angle_rad <- atan(coef[2]) * 10^3  # coef[2] é o coeficiente angular, ou seja, valor do resistor.
+  angle_rad <- (coef[2]) * 10^3  # coef[2] é o coeficiente angular, ou seja, valor do resistor.
   legend("top", legend = paste("Ângulo de Inclinação:", round(angle_rad, 2), paste(z, "°")), col = "black", lty = 1, cex = 0.8) # Legenda com o ângulo
   # Legenda com o angulo
 }
